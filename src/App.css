@@ -1,0 +1,41 @@
+body {
+  background-color: blueviolet;
+}
+.navbar {
+  text-align: center;
+  padding-top: 45px;
+  font-family: monospace;
+  display: block;
+  font-size: 15px;
+  background-color: blueviolet;
+  height: 50px;
+  width: 100%;
+  text-transform: uppercase;
+  position: fixed;
+}
+.news {
+  padding-top: 90px;
+  margin: auto;
+  max-width: 56%;
+  max-height: 120%;
+  font-size: 20px;
+}
+.poto {
+  width: 100%;
+  display: flex;
+}
+.text {
+  margin: 0px;
+  padding: 30px;
+}
+p {
+  display: inline;
+}
+img {
+  margin-right: 50px;
+  margin-left: 30px;
+  width: 100%;
+}
+a {
+  color: black;
+}
